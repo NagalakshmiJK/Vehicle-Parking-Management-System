@@ -10,8 +10,9 @@ A robust console-based (or GUI) application designed to automate the management 
 * **Role-based Access:** Secure login for Admin/Staff.
 
 ## 🛠️ Tech Stack
-* **Language:** Java / C
+* **Language:** Java 
 * **Database:** MySQL
+* **Connectivity:** JDBC
 * **Concepts:** Data Structures (Linked Lists/Queues), JDBC (for Java), File Handling.
 
 ![Loading... slot check image](https://5.imimg.com/data5/SELLER/Default/2025/7/530736372/QK/UZ/GV/7092090/parking-management-system-500x500.jpg)
